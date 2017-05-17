@@ -1,5 +1,6 @@
 # butterworthfilters
 A collection of Butterworth filter code from my <a href="http://doctorpapadopoulos.com">blog</a>
+I have a whole bunch of filter snippets I will be adding here soon
 
 
 void ButterworthLowpassFilter0100SixthOrder(const double src[], double dest[], int size)
